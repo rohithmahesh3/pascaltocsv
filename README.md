@@ -1,5 +1,5 @@
 # pascaltocsv
-Convert pascal voc xml files to google cloud automl vision object detection dataset csv
+Convert pascal voc xml files to Google cloud vision object detection dataset csv
 
 ### How to use
 ```
